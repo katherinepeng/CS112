@@ -1,3 +1,3 @@
-# CS112-Week-3-HW-Figure 
+# CS112
 
 Hello World!
